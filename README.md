@@ -7,7 +7,7 @@
 - A Software Engineering Research Intern for the University of Louisville
 ---
 ### Some of my hobbies include:
-----
+-----
 #### ⌨️ Programming (Obviously 😭)
 - 🌱 I'm currently working on a chrome-extension bookmark folder synchronization tool using GoLang and WebRTC that boosts productivty/orginization within teams by allowing them to share bookmarks across browsers in real time
 - 🌱 I'm also building a [youtube channel](https://www.youtube.com/@moof108) for fun that revolves around my programming journey (LeetCode, Program w/ Me, etc.)
