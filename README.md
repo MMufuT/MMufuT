@@ -6,7 +6,7 @@
 - A Software Development Team Lead for Our National Conversation
 - A Software Engineering Research Intern for the University of Louisville
 ---
-### Some of my hobbies include:
+### Some of my Hobbies Include:
 
 #### ⌨️ Programming (Obviously 😭)
 - 🌱 I'm currently working on a chrome-extension bookmark folder synchronization tool using GoLang and WebRTC that boosts productivty/orginization within teams by allowing them to share bookmarks across browsers in real time
@@ -21,6 +21,10 @@
 #### ⚽️🏀🏈 Sports
 - Chelsea (London is Blue!) 🔹
 - Cleveland Sports (Cavs, Browns) 💛❤️ | 🟤🟠
+
+### 🗣️ You Can Contact Me:
+- via [LinkedIn](https://www.linkedin.com/in/mufu-tebit-8bb355256/)
+- via [Email](mailto:mmt108@case.edu)
 
   
   
