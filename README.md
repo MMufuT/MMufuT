@@ -1,10 +1,7 @@
 ## Hey, I'm Mufu!
 
-📚 I'm Currently a Rising Senior @ Case Western Reserve University pursuing a B.S. Degree in Computer Science
+📚 I'm Currently a Senior @ Case Western Reserve University pursuing a B.S. Degree in Computer Science
 
-### ☀️ This Summer, I'm interning as:
-- A Software Development Team Lead for Our National Conversation
-- A Software Engineering Research Intern for the University of Louisville
 ---
 ### Some of my Hobbies Include:
 
@@ -24,9 +21,3 @@
 ### 🗣️ You Can Contact Me:
 - via [LinkedIn](https://www.linkedin.com/in/mufu-tebit-8bb355256/)
 - via [Email](mailto:mmt108@case.edu)
-
-  
-  
-
-
-  
